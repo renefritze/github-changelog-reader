@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection
+https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup
