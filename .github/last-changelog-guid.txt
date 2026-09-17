@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup
+https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys
