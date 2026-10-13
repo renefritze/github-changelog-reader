@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-09-push-attribution-for-commits-in-limited-public-preview
+https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
