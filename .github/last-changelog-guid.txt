@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
+https://github.blog/changelog/2026-10-12-github-actions-workflow-lockfiles-in-public-preview
