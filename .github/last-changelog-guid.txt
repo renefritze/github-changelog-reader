@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability
+https://github.blog/changelog/2026-10-13-open-source-license-compliance-generally-available
