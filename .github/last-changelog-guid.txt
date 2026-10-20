@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-15-some-git-over-https-may-temporarily-require-authentication
+https://github.blog/changelog/2026-10-19-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4
