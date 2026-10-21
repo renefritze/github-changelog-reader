@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-19-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4
+https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository
